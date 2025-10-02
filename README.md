@@ -36,7 +36,7 @@ The project demonstrates **OOP concepts**:
 
 ## ⚙️ Requirements
 
-* **C++ Compiler** (GCC, MSVC, MinGW, etc.)
+* **C++ Compiler** (Codeblocks, MSVC, MinGW, etc.)
 * **Windows OS** (uses `<windows.h>` for `Sleep()` and `system("color")`).
 
 > ⚠️ On Linux/Mac, you’ll need to replace `Sleep()` with `usleep()` and remove `system("color")`.
