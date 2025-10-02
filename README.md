@@ -83,15 +83,6 @@ Clock then updates every second ⏱️
 
 ---
 
-## 👨‍💻 Contributors
-
-* Arslan Zafar
-* Talha Irshad
-* Hamza Anees Butt
-* Ali Raza
-
----
-
 ## 📜 License
 
 This project is open-source. You are free to modify and use it for learning purposes.
